@@ -6,7 +6,9 @@ A dynamic React-based tool to visually build and preview JSON Schemas in real-ti
 
 ## 🔗 Live Demo
 
-[Click here to view the hosted app](https://your-vercel-app-url.vercel.app)
+[Click here to view the hosted app](https://json-schema-builder-jade.vercel.app/)
+
+
 
 ---
 
